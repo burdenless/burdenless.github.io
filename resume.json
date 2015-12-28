@@ -1,0 +1,169 @@
+{
+  "basics": {
+    "name": "Bob Argenbright",
+    "label": "Innovative Technologist & Cyber Security Polyglot",
+    "picture": "https://avatars2.githubusercontent.com/u/6267544?v=3&s=460",
+    "email": "[redacted]",
+    "phone": "[redacted]",
+    "website": "http://blog.darknetrecon.org",
+    "summary": "Bob has a passion for technology, a love of learning and knowledge, and a constant pursuit of wisdom.",
+    "location": {
+      "countryCode": "US",
+      "region": "[redacted]"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "byt3smith",
+        "url": "https://twitter.com/byt3smith"
+      },
+      {
+        "network": "Github",
+        "username": "byt3smith",
+        "url": "https://github.com/byt3smith"
+      },
+      {
+        "network": "Linkedin",
+        "username": "bobbyargenbright",
+        "url": "https://www.linkedin.com/in/bobbyargenbright"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Danaher Corporation",
+      "position": "Cyber Intrusion Analyst",
+      "website": "http://danaher.com",
+      "startDate": "2015-06-01",
+      "summary": "Danaher Corporation is a holdings company, providing a tested business model to it's operating companies.",
+      "highlights": [
+        "Build automated methods for detection and response of cyber security incidents",
+        "Provide guidance on security policies and best practices",
+        "Perform analysis of threats detected and document the threat"
+      ]
+    },
+    {
+      "company": "San Diego Gas & Electric",
+      "position": "Incident Response Analyst",
+      "website": "http://sdge.com",
+      "startDate": "2014-06-01",
+      "endDate": "2015-06-01",
+      "summary": "San Diego Gas & Electric is a subsidiary of Sempra Energy, providing utilities services to Southern California residents.",
+      "highlights": [
+        "Implemented advanced malware detection & forensics systems [CarbonBlack, Bit9, Palo Alto Wildfire]",
+        "Investigated and remediated various network security incidents",
+        "Developed tools for automating the collection and digestion of incident related data"
+      ]
+    },
+    {
+      "company": "Leidos Corporation",
+      "position": "Cyber Intelligence Analyst",
+      "website": "http://leidos.com",
+      "startDate": "2013-08-05",
+      "endDate": "2014-06-01",
+      "summary": "Leidos is a corporation with divisions focused in Health, National Security, and Engineering.",
+      "highlights": [
+        "Performed analysis of threat artifacts gathered by the Computer Incident Response Team",
+        "Correlated attack data with current threat actors and campaigns"
+      ]
+    },
+    {
+      "company": "Level 3 Communications",
+      "position": "Security Technician II",
+      "website": "http://level3.com",
+      "startDate": "2012-11-01",
+      "endDate": "2013-08-01",
+      "summary": "Level 3 provides network backbone infrastructure to internet service providers and managed services to enable secure and reliable communication.",
+      "highlights": [
+        "Configured unified threat management systems per customer specification",
+        "Analyzed security events from IDS systems and network/endpoint logs"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2015-08-01",
+      "gpa": "3.6",
+      "courses": [
+        "Software Architecture & Design",
+        "Computer Networks"
+      ]
+    },
+    {
+      "institution": "University of Advancing Technology",
+      "area": "Technology Forensics",
+      "studyType": "Bachelor",
+      "startDate": "2011-08-01",
+      "endDate": "2015-03-01",
+      "gpa": "3.96",
+      "courses": [
+        "Applied Exploits & Hacking",
+        "Operating System Forensics",
+        "File Systems & Structures I & II",
+        "Network Forensics"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "CarbonBlack Innovator",
+      "date": "2015-10-28",
+      "awarder": "CarbonBlack",
+      "summary": "Customer who extended and utilized the platform to it's fullest extent"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "level": "Journeyman",
+      "keywords": [
+        "Python",
+        "Ruby",
+        "C/C++",
+        "HTML/CSS/JS",
+        "Node.JS",
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "Digtal Forensics",
+      "level": "Professional",
+      "keywords": [
+        "Memory Forensics",
+        "Malware Reverse Engineering",
+        "File Systems",
+        "Linux/Unix",
+        "Windows"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Arts",
+      "keywords": [
+        "Music",
+        "Video Games",
+        "Sketching",
+        "Web Design"
+      ]
+    },
+    {
+      "name": "Activities",
+      "keywords": [
+        "Guns",
+        "Archery",
+        "Martial Arts",
+        "Mountaineering"
+      ]
+    }
+  ]
+}
