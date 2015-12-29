@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Bob Argenbright",
-    "label": "Innovative Technologist & Cyber Security Polyglot",
+    "label": "Software Engineer :: Digital Problem Solver",
     "picture": "https://avatars2.githubusercontent.com/u/6267544?v=3&s=460",
     "email": "[redacted]",
     "phone": "[redacted]",
     "website": "http://blog.darknetrecon.org",
-    "summary": "Bob has a passion for technology, a love of learning and knowledge, and a constant pursuit of wisdom.",
+    "summary": "In a world intelligently designed, filled with creatures capable of conscious thought, there emerged puzzles, and questions. Some questions cannot be answered, and some puzzles cannot be solved, but for the rest, we have Engineers. - I am a Software Engineer - I speak binary, the language of machines. I seek to solve the puzzles and challenges of the day, using machinery designed by other engineers. Together, we can solve many of the problems we face day-to-day, thanks to the gift of intelligence given to us by the Almighty. To Him be the glory.",
     "location": {
       "countryCode": "US",
       "region": "[redacted]"
@@ -122,10 +122,21 @@
       "keywords": [
         "Python",
         "Ruby",
+        "Go",
         "C/C++",
-        "HTML/CSS/JS",
+        "HTML/CSS/JQuery",
         "Node.JS",
         "AngularJS"
+      ]
+    },
+    {
+      "name": "Information Security",
+      "level": "Professional",
+      "keywords": [
+        "Penetration Testing",
+        "Vulnerability Assesment",
+        "System Hardening",
+        "Encryption"
       ]
     },
     {
