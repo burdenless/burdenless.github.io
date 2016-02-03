@@ -1,5 +1,5 @@
 ## byt3smith
-#### My Online Profile
+#### My Online Resume
 ---
 * Utilizes [JSON Resume]('https://github.com/jsonresume')
-* Design - Customized [Elegant]('http://themes.jsonresume.org/theme/elegant') HTML theme
+* UI Design - Customized [Elegant]('http://themes.jsonresume.org/theme/elegant') HTML theme
