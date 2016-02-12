@@ -5,11 +5,11 @@
     "picture": "https://avatars2.githubusercontent.com/u/6267544?v=3&s=460",
     "email": "[redacted]",
     "phone": "[redacted]",
-    "website": "http://blog.darknetrecon.org",
+    "website": "http://byt3smith.github.io/forge-journal",
     "summary": "In a world intelligently designed, filled with creatures capable of conscious thought, there emerged puzzles, and questions. Some questions cannot be answered, and some puzzles cannot be solved, but for the rest, we have Engineers. - I am a Software Engineer - I speak binary, the language of machines. I seek to solve the puzzles and challenges of the day, using machinery designed by other engineers. Together, we can solve many of the problems we face day-to-day, thanks to the gift of intelligence given to us by the Almighty. To Him be the glory.",
     "location": {
       "countryCode": "US",
-      "region": "[redacted]"
+      "region": ""
     },
     "profiles": [
       {
@@ -109,9 +109,9 @@
   ],
   "awards": [
     {
-      "title": "CarbonBlack Innovator",
+      "title": "Carbonblack Innovator",
       "date": "2015-10-28",
-      "awarder": "CarbonBlack",
+      "awarder": "Carbonblack",
       "summary": "Customer who extended and utilized the platform to it's fullest extent"
     }
   ],
