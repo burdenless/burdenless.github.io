@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Bob Argenbright",
-    "label": "Software Engineer :: Digital Problem Solver",
+    "label": "Software Engineer :: Security Specialist",
     "picture": "https://avatars2.githubusercontent.com/u/6267544?v=3&s=460",
     "email": "[redacted]",
     "phone": "[redacted]",
     "website": "http://byt3smith.github.io/forge-journal",
-    "summary": "In a world intelligently designed, filled with creatures capable of conscious thought, there emerged puzzles, and questions. Some questions cannot be answered, and some puzzles cannot be solved, but for the rest, we have Engineers. - I am a Software Engineer - I speak binary, the language of machines. I seek to solve the puzzles and challenges of the day, using machinery designed by other engineers. Together, we can solve many of the problems we face day-to-day, thanks to the gift of intelligence given to us by the Almighty. To Him be the glory.",
+    "summary": "In a world intelligently designed, filled with creatures capable of conscious thought, there emerged puzzles, and questions. Some questions cannot be answered, and some puzzles cannot be solved, but for the rest, we have Engineers. - I am a Software Engineer - I speak fluent nerd; the language of programmers. I seek to solve the puzzles and challenges of the day, using machinery designed by other engineers. Together, we can solve many of the problems we face day-to-day, thanks to the gift of intelligence given to us by the Almighty. To Him be the glory.",
     "location": {
       "countryCode": "US",
       "region": ""
@@ -25,16 +25,28 @@
       {
         "network": "Linkedin",
         "username": "bobbyargenbright",
-        "url": "https://www.linkedin.com/in/bobbyargenbright"
+        "url": "https://www.linkedin.com/in/bobarg"
       }
     ]
   },
   "work": [
     {
+      "company": "Heroku",
+      "position": "Software Engineer",
+      "website": "http://heroku.com",
+      "startDate": "2016-08-01",
+      "summary": "Heroku is a web services company owned by Salesforce",
+      "highlights": [
+        "Build production systems for automated detection and mitigation of platform abuse",
+        "Research and document novel techniques for detecting abuse"
+      ]
+    },
+    {
       "company": "Danaher Corporation",
       "position": "Cyber Intrusion Analyst",
       "website": "http://danaher.com",
       "startDate": "2015-06-01",
+      "endDate": "2016-07-31",
       "summary": "Danaher Corporation is a holdings company, providing a tested business model to it's operating companies.",
       "highlights": [
         "Build automated methods for detection and response of cyber security incidents",
